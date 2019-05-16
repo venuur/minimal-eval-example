@@ -7,7 +7,6 @@
  "123")
 
 ; What I would like to work
-(require rackunit)
 ;(check-equal?
 ; (with-output-to-string (eval "lang minimal-eval-example" "1 2 3"))
 ; "123")
